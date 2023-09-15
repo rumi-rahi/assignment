@@ -47,7 +47,7 @@ body{
 
 
 .container{
-    background-image:url("/rumi.jpg");
+    background-image:url("./rumi.jpg");
     background-size: cover;
     background-position: center;
     flex-direction: column;
